@@ -6,7 +6,7 @@ import profileImg from "../assets/download.jpg";
 export default function Header() {
   return (
     <div className="flex items-center justify-between px-6 py-4 bg-gray-100 shadow">
-      {/* Left Side: Search Box */}
+      
       <div className="flex items-center gap-10">
         <SearchBox />
       </div>
