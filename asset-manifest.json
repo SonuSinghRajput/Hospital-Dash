@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Hospital-Dash/static/css/main.94142f74.css",
+    "main.js": "/Hospital-Dash/static/js/main.b374a2d9.js",
+    "static/js/453.d79d2faa.chunk.js": "/Hospital-Dash/static/js/453.d79d2faa.chunk.js",
+    "static/media/anatomy.png": "/Hospital-Dash/static/media/anatomy.2a92261bca13d864e537.png",
+    "static/media/lungs.png": "/Hospital-Dash/static/media/lungs.2f6475bc704b8e9e11d7.png",
+    "index.html": "/Hospital-Dash/index.html",
+    "main.94142f74.css.map": "/Hospital-Dash/static/css/main.94142f74.css.map",
+    "main.b374a2d9.js.map": "/Hospital-Dash/static/js/main.b374a2d9.js.map",
+    "453.d79d2faa.chunk.js.map": "/Hospital-Dash/static/js/453.d79d2faa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94142f74.css",
+    "static/js/main.b374a2d9.js"
+  ]
+}
