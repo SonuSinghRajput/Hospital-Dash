@@ -17,7 +17,7 @@ export default function App() {
         <Header />
         <div className="flex flex-col xl:flex-row gap-6 p-6">         
           <div className="flex-1 space-y-6">
-            <h2 className="text-2xl font-semibold">Dashboard </h2>
+            <h2 className="text-2xl font-semibold">Dashboard</h2>
             <div className="flex flex-col xl:flex-row gap-6">             
               <div className="w-full xl:w-1/2">
                 <AnatomySection />
