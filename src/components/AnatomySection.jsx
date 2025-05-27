@@ -5,7 +5,7 @@ export default function AnatomySection() {
   return (
     <div className="bg-white shadow rounded-lg p-6">
      
-      <div className="h-64 bg-gray-200 flex items-center justify-center">
+      <div className="h-64 bg-gray-200 flex items-center  justify-center">
         <img 
           src={images}
           alt="Anatomy Graphic" 
